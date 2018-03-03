@@ -1,10 +1,8 @@
 ### 说明
 
-这是一个使用```react + antd + react-router + issue + es6```的单页面静态博客，点击[「馒头加梨子」](https://sishenhei7.github.io/react-blog)查看博客。
+这是一个使用```react + antd + react-router + issue + es6```的单页面静态博客，点击[「CandyBullet」](https://candybullet.github.io)查看博客。
 
 此博客基于```github issue```和```github api```搭建。
-
-由于某些原因，此博客不支持在浏览器端进行'刷新键'操作，如果要查看完整功能的博客请点击[「CandyBullet」](https://candybullet.github.io)。
 
 ### 技术栈
 
